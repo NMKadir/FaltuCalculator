@@ -1,0 +1,13 @@
+package myproject; 
+public class myclass
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("naheen kadir");
+		int a = 5, b = 10;
+		int c = a ^ b;
+		System.out.println(c);
+	}
+
+}
